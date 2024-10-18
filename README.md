@@ -1,4 +1,4 @@
-<h2 align="left"> Kamrujjaman Tuhin | Frontend Web Developer</h2>
+<h2 align="center"> Kamrujjaman Tuhin | Frontend Web Developer</h2>
 
 ###
 
