@@ -1,4 +1,4 @@
-## <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/kamrjman" target="_blank">Kamrujjaman Tuhin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+# <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/kamrjman" target="_blank">Kamrujjaman Tuhin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kamrjman)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kamrjman)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kamrjman/)
@@ -14,7 +14,7 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 - <img src="/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me anything about web development.
 - <img src="/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: kamrjman.kt@gmail.com
 
-### ⚙️ Tech Stacks
+## ⚙️ Tech Stacks
 
 #### Programming Languages
 ![C](https://skillicons.dev/icons?i=c)
@@ -51,7 +51,7 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 
-### 📈 GitHub Analytics
+## 📈 GitHub Analytics
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kamrjman&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kamrjman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
