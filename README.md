@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assests/Kamrujjaman.jpg" width="1000">
+<img src="./assests/Kamrujjaman.jpg" width="1000" height="600">
 </div>
 
 # <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/kamrjman" target="_blank">Kamrujjaman Tuhin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
